@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Khazmatrix
-- 🌱 I’m currently learning python, php, html, css
+- 🌱 I’m currently learning python, php, html.
 
 <!---
 Khazmatrix/Khazmatrix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
